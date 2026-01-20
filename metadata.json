@@ -1,0 +1,5 @@
+{
+  "name": "Smart Ledger AI",
+  "description": "A modern, AI-powered personal finance tracker inspired by top-tier bookkeeping apps. Features smart transaction parsing and financial insights using Gemini.",
+  "requestFramePermissions": []
+}
